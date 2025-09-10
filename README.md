@@ -1,4 +1,4 @@
-# Sign Language Digit Recognition 🔢✋
+# Sign Language Digit Recognition
 
 A deep learning project that recognizes **hand-sign digits (0–9)** from images using a fine-tuned [MobileNet](https://keras.io/api/applications/mobilenet/).  
 The model is trained on the [Sign Language Digits Dataset](https://github.com/ardamavi/Sign-Language-Digits-Dataset).
